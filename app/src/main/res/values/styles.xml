@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="MyButtonStyle" parent="Base.Widget.AppCompat.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignRight">@+id/textView</item>
+        <item name="android:layout_alignLeft">@+id/textView</item>
+        <item name="android:onClick">showAppNameToast</item>
+    </style>
+
 </resources>

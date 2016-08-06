@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu App Portfolio</string>
+    <string name="popular_movies">FILMES POPULARES</string>
+    <string name="build_it_bigger">CRESCE MONSTRO</string>
+    <string name="capstone">PROJETO FINAL</string>
+    <string name="go_ubiquitous">FICANDO UBÍQUO</string>
+    <string name="make_your_app_material">FAZENDO SEU APP MATERIAL</string>
+    <string name="stock_hawk">CARCARÁ DAS AÇÕES</string>
+    <string name="my_nanodegree_apps">Meus Apps do Nanodegree!</string>
+    <string name="portfolio_toast">Esse botão vai lançar o app %1s!</string>
+</resources>
